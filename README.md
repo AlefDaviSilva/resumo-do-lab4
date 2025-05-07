@@ -1,5 +1,4 @@
 # resumo-do-lab4
-
 Este projeto visa a implementação de uma solução de e-commerce na nuvem utilizando Microsoft Azure, com foco em escalabilidade, segurança e eficiência. A arquitetura foi projetada para garantir alta disponibilidade, proteção de dados e otimização de recursos, permitindo o crescimento dinâmico do negócio.
 
 A solução é hospedada no Microsoft Azure, utilizando a Azure Kubernetes Service (AKS) para orquestração de contêineres. Isso permite escalabilidade eficiente e gerenciamento automatizado das aplicações. A infraestrutura é configurada para suportar alta disponibilidade e recuperação de desastres, distribuindo os recursos entre diferentes regiões da Azure.
